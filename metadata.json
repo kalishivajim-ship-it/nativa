@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Echo Live",
+  "description": "A real-time voice assistant powered by Gemini Live API for natural, low-latency conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
